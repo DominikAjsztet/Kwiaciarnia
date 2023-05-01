@@ -44,6 +44,7 @@ a {
 /* Section */
 
 .glowna {
+    display: flex;
     background-image: url("images/s.jpg");
     height: 225px;
     opacity: 0.54;
@@ -54,7 +55,6 @@ a {
 
 .lewo {
     width: 50%;
-    float: left;
 }
 
 .tytul {
@@ -84,7 +84,7 @@ a {
 /* Fotografia */
 
 .prawo {
-    margin-top: -8%;
+    margin-top: 2%;
     width: 50%;
     display: inline-block;
 }
